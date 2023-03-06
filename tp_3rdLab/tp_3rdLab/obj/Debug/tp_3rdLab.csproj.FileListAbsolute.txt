@@ -1,0 +1,11 @@
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\bin\Debug\tp_3rdLab.exe.config
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\bin\Debug\tp_3rdLab.exe
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\bin\Debug\tp_3rdLab.pdb
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.exe
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.pdb
+C:\Rider for cpp and cs\prjects\tp_3rdLab\tp_3rdLab\obj\Debug\tp_3rdLab.Form1.resources
