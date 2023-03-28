@@ -1,0 +1,11 @@
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\bin\Debug\tp_5Lab.exe.config
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\bin\Debug\tp_5Lab.exe
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\bin\Debug\tp_5Lab.pdb
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.exe
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.pdb
+C:\Rider for cpp and cs\prjects\tp_5Lab\tp_5Lab\obj\Debug\tp_5Lab.Form1.resources
