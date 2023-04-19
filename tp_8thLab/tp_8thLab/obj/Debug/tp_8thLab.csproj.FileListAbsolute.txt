@@ -1,0 +1,12 @@
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\bin\Debug\tp_8thLab.exe.config
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\bin\Debug\tp_8thLab.exe
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\bin\Debug\tp_8thLab.pdb
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.exe
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.pdb
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.Form1.resources
+C:\Rider for cpp and cs\prjects\tp_8thLab\tp_8thLab\obj\Debug\tp_8thLab.secondForm.resources
