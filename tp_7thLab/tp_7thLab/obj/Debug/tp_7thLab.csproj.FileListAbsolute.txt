@@ -1,0 +1,12 @@
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\bin\Debug\tp_7thLab.exe.config
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\bin\Debug\tp_7thLab.exe
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\bin\Debug\tp_7thLab.pdb
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.csproj.AssemblyReference.cache
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.csproj.SuggestedBindingRedirects.cache
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.Properties.Resources.resources
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.csproj.GenerateResource.cache
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.csproj.CoreCompileInputs.cache
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.exe
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.pdb
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.Form1.resources
+C:\Rider for cpp and cs\prjects\tp_7thLab\tp_7thLab\obj\Debug\tp_7thLab.Foxes.resources
